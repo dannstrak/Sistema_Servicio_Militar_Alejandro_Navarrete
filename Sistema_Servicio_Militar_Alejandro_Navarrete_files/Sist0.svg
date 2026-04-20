@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="272mm" xmlns="http://www.w3.org/2000/svg" height="123mm" version="1.1" viewBox="0 0 1028 468" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="Sist44.htm#13">
+      <polyline fill="none" points="549,273 549,390" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="558,259 549,286 539,259 558,259" stroke="#00aaaa" stroke-width="1"/>
+      <ellipse cx="548" cy="289" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="554,376 543,376" stroke="#00aaaa" stroke-width="1"/>
+      <text x="548" y="334" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Pertenece</text>
+   </a>
+   <a target="_parent" xlink:href="Sist43.htm#10">
+      <polyline fill="none" points="551,197 551,78" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="542,210 551,183 561,210 542,210" stroke="#00aaaa" stroke-width="1"/>
+      <ellipse cx="551" cy="179" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="546,92 557,92" stroke="#00aaaa" stroke-width="1"/>
+      <text x="551" y="140" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Forma_parte_de</text>
+   </a>
+   <a target="_parent" xlink:href="Sist41.htm#4">
+      <polyline fill="none" points="410,47 138,47 138,220" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="424,56 397,47 424,37 424,56" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="397,41 397,52" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="129,233 138,207 148,233 129,233" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="144,207 133,207" stroke="#00aaaa" stroke-width="1"/>
+      <text x="138" y="42" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Destinados_en</text>
+   </a>
+   <a target="_parent" xlink:href="Sist42.htm#7">
+      <polyline fill="none" points="429,250 261,250" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="442,260 416,250 442,241 442,260" stroke="#00aaaa" stroke-width="1"/>
+      <ellipse cx="412" cy="250" rx="3" ry="3" fill="#ffffff" stroke="#00aaaa" stroke-width="1"/>
+      <polyline fill="none" points="275,256 275,245" stroke="#00aaaa" stroke-width="1"/>
+      <text x="345" y="246" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Está_en</text>
+   </a>
+   <polyline fill="none" points="673,210 778,210" stroke="#8080ff" stroke-width="1"/>
+   <text x="701" y="206" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">1,n</text>
+   <polyline fill="none" points="871,274 871,228" stroke="#8080ff" stroke-width="1"/>
+   <text x="859" y="255" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">1,n</text>
+   <a target="_parent" xlink:href="Sist36.htm#68">
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="429" y="197" fill="url(#Gradient1)" width="244" height="76" stroke="#00aaaa" stroke-width="1"/>
+      <text x="551" y="208" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Soldado</text>
+      <line x1="429" x2="673" y1="214" y2="214" stroke="#00aaaa" stroke-width="1"/>
+      <text x="434" y="224" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">cod_unico</text>
+      <text x="434" y="237" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">apellido</text>
+      <text x="434" y="250" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">graduación</text>
+      <text x="494" y="224" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;pi&gt;</text>
+      <text x="522" y="224" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">Number (4)</text>
+      <text x="522" y="237" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (50)</text>
+      <text x="522" y="250" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (50)</text>
+      <text x="640" y="224" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;M&gt;</text>
+      <line x1="429" x2="673" y1="257" y2="257" stroke="#00aaaa" stroke-width="1"/>
+      <text x="434" y="267" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Identifier_1</text>
+      <text x="494" y="267" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;pi&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Sist27.htm#21">
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="220" fill="url(#Gradient2)" width="246" height="63" stroke="#00aaaa" stroke-width="1"/>
+      <text x="138" y="231" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Cuartel</text>
+      <line x1="15" x2="261" y1="237" y2="237" stroke="#00aaaa" stroke-width="1"/>
+      <text x="20" y="247" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">cod_cuartel</text>
+      <text x="20" y="260" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">ubicación</text>
+      <text x="82" y="247" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;pi&gt;</text>
+      <text x="110" y="247" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">Number (4)</text>
+      <text x="110" y="260" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (60)</text>
+      <text x="228" y="247" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;M&gt;</text>
+      <line x1="15" x2="261" y1="267" y2="267" stroke="#00aaaa" stroke-width="1"/>
+      <text x="20" y="277" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Identifier_1</text>
+      <text x="80" y="277" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;pi&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Sist30.htm#37">
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="420" y="390" fill="url(#Gradient3)" width="258" height="63" stroke="#00aaaa" stroke-width="1"/>
+      <text x="549" y="401" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">cuerpo_del_ejercito</text>
+      <line x1="420" x2="678" y1="406" y2="406" stroke="#00aaaa" stroke-width="1"/>
+      <text x="424" y="416" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">cod_cuerpo</text>
+      <text x="424" y="429" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">denominación</text>
+      <text x="497" y="416" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;pi&gt;</text>
+      <text x="525" y="416" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">Number (4)</text>
+      <text x="525" y="429" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (60)</text>
+      <text x="643" y="416" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;M&gt;</text>
+      <line x1="420" x2="678" y1="436" y2="436" stroke="#00aaaa" stroke-width="1"/>
+      <text x="424" y="446" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Identifier_1</text>
+      <text x="484" y="446" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;pi&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Sist24.htm#5">
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="410" y="15" fill="url(#Gradient4)" width="282" height="63" stroke="#00aaaa" stroke-width="1"/>
+      <text x="551" y="26" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Compania</text>
+      <line x1="410" x2="692" y1="32" y2="32" stroke="#00aaaa" stroke-width="1"/>
+      <text x="415" y="42" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">numero_compania</text>
+      <text x="415" y="55" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">actividad_principal</text>
+      <text x="509" y="42" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;pi&gt;</text>
+      <text x="537" y="42" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">Number (4)</text>
+      <text x="537" y="55" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (60)</text>
+      <text x="655" y="42" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;M&gt;</text>
+      <line x1="410" x2="692" y1="62" y2="62" stroke="#00aaaa" stroke-width="1"/>
+      <text x="415" y="72" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Identifier_1</text>
+      <text x="475" y="72" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;pi&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Sist33.htm#53">
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="761" y="274" fill="url(#Gradient5)" width="252" height="63" stroke="#00aaaa" stroke-width="1"/>
+      <text x="887" y="285" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Servicio_a_realizar</text>
+      <line x1="761" x2="1013" y1="291" y2="291" stroke="#00aaaa" stroke-width="1"/>
+      <text x="766" y="301" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">cod_servicio</text>
+      <text x="766" y="314" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">descripciön</text>
+      <text x="832" y="301" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;pi&gt;</text>
+      <text x="860" y="301" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">Number (4)</text>
+      <text x="860" y="314" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Variable characters (70)</text>
+      <text x="978" y="301" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start" text-decoration="underline">&lt;M&gt;</text>
+      <line x1="761" x2="1013" y1="321" y2="321" stroke="#00aaaa" stroke-width="1"/>
+      <text x="766" y="331" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Identifier_1</text>
+      <text x="826" y="331" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;pi&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Sist5.htm#4">
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d0d0ff"/>
+         </linearGradient>
+      </defs>
+      <rect x="778" y="188" rx="15" ry="20" fill="url(#Gradient6)" width="187" height="40" stroke="#8080ff" stroke-width="1"/>
+      <text x="871" y="199" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="middle">Realiza</text>
+      <line x1="778" x2="965" y1="205" y2="205" stroke="#8080ff" stroke-width="1"/>
+      <text x="797" y="215" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Fecha_realización</text>
+      <text x="889" y="215" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">Date</text>
+      <text x="920" y="215" fill="#000000" font-size="10" font-family="Microsoft Sans Serif" text-anchor="start">&lt;M&gt;</text>
+   </a>
+</svg>
